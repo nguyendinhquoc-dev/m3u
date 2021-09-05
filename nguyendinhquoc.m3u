@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/nguyendinhquoc-dev/m3u/master/nguyendinhquoc.m3u" http://gg.gg/ps10377
-# Nguyen Dinh Quoc
+#EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114325&authkey=AOsHyz6XI4_GTOw
 
 # ANIME
 # #EXTINF:0 group-title="ANIME" tvg-logo="https://i.imgur.com/ylwKCkP.jpg",Lạc Vào Khu Rừng Đom Đóm
