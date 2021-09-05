@@ -498,16 +498,16 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #https://thvli-live2.admon.com.vn/thvli/thvl4-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",Cần Thơ
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png",Cần Thơ
 https://mekongpassion.com/live/tv/chunklist.m3u8
 
 #EXTINF:0 group-title=" QUE HUONG" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/KG_Ki%C3%AAn_Giang.png/revision/latest?cb=20201025093743&path-prefix=vi",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 1
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 2
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="hanoi1" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 1
@@ -516,23 +516,23 @@ http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title=" QUE HUONG", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",Hà Nội 2
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201",Bắc Giang
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest/scale-to-width-down/340?cb=20201008153201",Bắc Giang
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2",Ninh Bình
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2",Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi",Thái Bình
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/340?cb=20180727200541&path-prefix=vi",Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345",Thái Nguyên 1
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TN1_Thai_Nguyen_logo.png/revision/latest/top-crop/width/300/height/300?cb=20200311054345",Thái Nguyên 1
 http://103.90.220.236/tntvlive/tv1live.m3u8
 #http://thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:0 group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 1
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 3
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:0 tvg-id="binhduong4" group-title=" QUE HUONG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png/revision/latest/top-crop/width/220/height/220?cb=20200305105447",Bình Dương 4 - iMovie
@@ -566,7 +566,7 @@ https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="https://i.imgur.com/OQPFp0c.jpeg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi",Bình Phước 1
+#EXTINF:0 tvg-id="https://i.imgur.com/ZqRnmez.jpg" group-title=" QUE HUONG", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi",Bình Phước 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
@@ -1032,147 +1032,147 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #CTT-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đội Bóng Thiếu Lâm
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đội Bóng Thiếu Lâm
 #EXTVLCOPT:http-user-agent="nguyendinhquoc
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đỗ Thánh 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đỗ Thánh 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đỗ Thánh 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đỗ Thánh 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Thần Bài 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Thần Bài 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Thần Bài 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Thần Bài 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Thần Bài 3
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Thần Bài 3
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Vua Phá Hoại
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Vua Phá Hoại
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Bách Biến Tinh Quân
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Bách Biến Tinh Quân
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Vận May Mỉm Cười
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Vận May Mỉm Cười
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Chuyên Gia Bắt Ma
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Chuyên Gia Bắt Ma
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Anh Hùng Của Tôi
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Anh Hùng Của Tôi
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tân Tinh Võ Môn 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tân Tinh Võ Môn 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210714/fist_of_fury_1991_hongkong_lt_v4/0823c2748d886f40b220f7ebfb977fb4.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tân Tinh Võ Môn 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tân Tinh Võ Môn 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tế Công
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tế Công
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Chuyên Gia Xảo Quyệt
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Chuyên Gia Xảo Quyệt
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trạng Nguyên Tô Khất Nhi
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trạng Nguyên Tô Khất Nhi
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trường Học Uy Long 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trường Học Uy Long 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trường Học Uy Long 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trường Học Uy Long 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trường Học Uy Long 3
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trường Học Uy Long 3
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_3_1993.mp4/chunklist.m3u8
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_3_1993_hongkong_v2/c1d6c04a1097544452ba8d65ed4f20c7.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tân Lộc Đỉnh Ký 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tân Lộc Đỉnh Ký 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P01.mp4/chunklist.m3u8
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tramp-1992-hongkong-lt/ada39ef7f89b0906775e42741960c26b.smil/chunklist_b3992000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tân Lộc Đỉnh Ký 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tân Lộc Đỉnh Ký 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P02.mp4/chunklist.m3u8
 
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đại Nội Mật Thám
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đại Nội Mật Thám
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/ForbiddenCityCop/ForbiddenCityCop_1996_HongKong.mp4/chunklist.m3u8
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210711/forbidden_city_cop_1996_hongkong_sub_v2/095345df326ee92f01f426b746bb2574.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Cảnh Sát Gặp Ma
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Cảnh Sát Gặp Ma
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/LookOutOfficer_1990_HongKong/LookOutOfficer_1990_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Bịp Vương Thượng Hải
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Bịp Vương Thượng Hải
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickymaster/The_Tricky_Master_1999.mp4/chunklist.m3u8
 https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the_tricky_master_1999_hongkong_lt/2360b89d7bed8c13dbd63b3e09d0310c.smil/chunklist_b3992000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Long Tại Thiên Nhai
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Long Tại Thiên Nhai
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/DragonFight_1989_China/DragonFight_1989_China.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tuyệt Đỉnh Kung Fu
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tuyệt Đỉnh Kung Fu
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/480p/movie/kungfuHustle/KungFuHustle.mp4/chunklist.m3u8
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210116/kung_fu_hustle_2004_china_sub_1080p/0075c42aa1f79c257f05b62df780a6e5.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tình Yêu Và Cuộc Đời
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tình Yêu Và Cuộc Đời
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/loveislove/Love_Is_Love_1990_720p.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trà Lầu Long Phụng
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trà Lầu Long Phụng
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/lungfung/Lung_Fung_Restaurant_1990.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tình Thánh
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tình Thánh
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/magnificentscoundrels/The_Magnificent_Scoundrels_1991.mp4/chunklist.m3u8
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the-magnificent-scoundrels-1991-hongkong-lt-v2/439d58ad4f994cce635ffedd6fdfdce0.smil/chunklist_b3992000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Hoàng Tử Bánh Trứng
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Hoàng Tử Bánh Trứng
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
 https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170721/theluckyguy-1998-hongkong-v2/326db59388d07e2de1684c233240b199.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đường Bá Hổ - Điểm Thu Hương
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đường Bá Hổ - Điểm Thu Hương
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/flirtingscholar/Flirting_Scholar_1993.mp4/chunklist.m3u8
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201008/flirtingscholar_1993_hongkong_lt_v4/1994b923bcbba20cbda70ce34542f76b.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Quan Xẩm Lốc Cốc
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Quan Xẩm Lốc Cốc
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/HailTheJudge/HailTheJudge_1994_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Quốc Sản 007
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Quốc Sản 007
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/frombeijing/From_Beijing_With_Love_1994.mp4/chunklist.m3u8
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161111/bbc8486da8ffa0ff0c3f81102a6aab87.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Thực Thần
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Thực Thần
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/TheGodOfCookery.mp4/chunklist.m3u8
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/fbe80b96b161514f044699e7fed830bb.smil/chunklist_b1998000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Trạng Sư Xảo Quyệt
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Trạng Sư Xảo Quyệt
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Siêu Khuyển Thần Thông
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Siêu Khuyển Thần Thông
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Vua Hài Kịch
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Vua Hài Kịch
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 #https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/kingofcomedy/The_King_Of_Comedy_1999.mp4/chunklist.m3u8
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201011/kingofcomedy_1999_hongkong_lt_v3/4f009b660af0129234d27c188362c5b8.smil/chunklist_b4628000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Vỏ Quýt Dày Có Móng Tay Nhọn
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Vỏ Quýt Dày Có Móng Tay Nhọn
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/CurryAndPepper_1990_HongKong.mp4/chunklist.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Gia Hữu Hỷ Sự
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Gia Hữu Hỷ Sự
 #EXTVLCOPT:http-user-agent="nguyendinhquoc
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170105/5382364557f8cd6edbfbc09617351761.smil/chunklist_b2992000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đại Thoại Tây Du 1
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đại Thoại Tây Du 1
 #EXTVLCOPT:http-user-agent="nguyendinhquoc
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200921/a_chinese_odyssey_part_i_china_1994_lt/753b58b2554f12a0b6aefea052162683.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Đại Thoại Tây Du 2
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Đại Thoại Tây Du 2
 #EXTVLCOPT:http-user-agent="nguyendinhquoc
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/OQPFp0c.jpeg",Tây Du Ký Ngoại Truyện
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.imgur.com/ZqRnmez.jpg",Tây Du Ký Ngoại Truyện
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM.mp4/chunklist.m3u8
 
@@ -1180,6 +1180,3 @@ ANIME
 #EXTINF:0 group-title="ANIME" tvg-logo="https://i.imgur.com/ylwKCkP.jpg",Lạc Vào Khu Rừng Đom Đóm
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180316/hotarubi-no-mori-e-2011-japan/a0eb45a29c047abdae59aa83d2a49d46.smil/chunklist_b1998000.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAbRn4sqPCI4K3ss3TIgo8kZuf7ZDuCS9ww&usqp=CAU" group-title="Xem lại Bóng Đá Bình Luận Tiếng Việt - Rê chuột trên thanh trượt thời gian để bỏ qua quảng cáo",Ngoại hạng Anh 29/08 20:00 Tottenham vs Watford
-https://ndcagev-swv-47b850307.thapcam.link/34148fcf1e58b4be18a05f8fc978fba6bc861eec/aaa6f03f9cbbb66c3eb24a84ce4ee60f/1630853647549/livehls/mtc_may6/chunks.m3u8
