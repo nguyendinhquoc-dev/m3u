@@ -600,3 +600,14 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
+
+
+# SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/FujJcM5P5DxKo-RhbgwdFW3lCct89Mh0VSLHm3r-hKBHh6WEXTjAqrD0cDAXpD_o-VU=w220",⚽ Sport 01
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+http://gg.gg/cclive2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.clipartbest.com/cliparts/nTB/EKG/nTBEKGz8c.gif",⚽ Sport 02
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+http://gg.gg/cclive1
+
