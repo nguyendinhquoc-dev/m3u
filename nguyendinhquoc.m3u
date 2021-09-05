@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/nguyendinhquoc-dev/m3u/master/nguyendinhquoc.m3u" http://gg.gg/ps10377
 # Nguyen Dinh Quoc
 
-# ANIME
-# #EXTINF:0 group-title="ANIME" tvg-logo="https://i.imgur.com/ylwKCkP.jpg",Lạc Vào Khu Rừng Đom Đóm
-# #EXTVLCOPT:http-user-agent="nguyendinhquoc"
-# https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180316/hotarubi-no-mori-e-2011-japan/a0eb45a29c047abdae59aa83d2a49d46.smil/chunklist_b1998000.m3u8
-
-
 
 # HBO
 #EXTINF:0 tvg-id="hbohd" group-title="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
@@ -1184,6 +1178,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM.mp4/chunklist.m3u8
 
+ANIME
 #EXTINF:0 group-title="ANIME" tvg-logo="https://i.imgur.com/ylwKCkP.jpg",Lạc Vào Khu Rừng Đom Đóm
 #EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180316/hotarubi-no-mori-e-2011-japan/a0eb45a29c047abdae59aa83d2a49d46.smil/chunklist_b1998000.m3u8
+
