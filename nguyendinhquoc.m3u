@@ -196,38 +196,80 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="htvc_coop" group-title="HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC| Thuần Việt SD
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vi",HTVC| Thuần Việt HD
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC| Phụ Nữ
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/29/HTVC_Film_logo.png/revision/latest/scale-to-width-down/200?cb=20210629030316&path-prefix=vi",HTVC| Phim
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",HTVC| Ca Nhạc
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/HC8_M.png",HTVC| Du Lịch & Cuộc Sống
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi",HTVC| Gia Đình
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV" tvg-logo="http://imageidc1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",HTVC| Plus
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",HTVC| FBNC
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="HTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",HTVC| VGS Shopping
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+
+
+# VOV
+#EXTINF:0 tvg-id="vovtv"  group-title="VOV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+#http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
+
+#EXTINF:0 tvg-id="ttxvnhd"  group-title="VOV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Vietnam_News_Agency_logo.svg/1200px-Vietnam_News_Agency_logo.svg.png",V.News| Thông Tấn Xã Việt Nam
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="antvhd"  group-title="VOV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/ANTV_SD_logo_fix.png/revision/latest?cb=20201026081353&path-prefix=vi",An Ninh TV
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="nhandan"  group-title="VOV" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="qpvnhd"  group-title="VOV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="quochoi"  group-title="VOV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="youtv"  group-title="VOV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",Hanoicab2
+#EXTVLCOPT:http-user-agent="nguyendinhquoc"
+https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+
