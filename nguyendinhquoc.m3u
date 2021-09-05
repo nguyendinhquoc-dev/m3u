@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/nguyendinhquoc-dev/m3u/master/nguyendinhquoc.m3u" http://gg.gg/ps10377
-# Nguyen Dinh Quoc
-
+#EXTM3U url-tvg="http://gg.gg/ps10377" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#https://github.com/nguyendinhquoc-dev/m3u/blob/master/nguyendinhquoc.m3u
 
 # HBO
 #EXTINF:0 tvg-id="hbohd" group-title="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
