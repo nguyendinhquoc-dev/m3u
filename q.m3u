@@ -1,22 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114325&authkey=AOsHyz6XI4_GTOw
-
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- 5K#
-
-#EXTINF:0 group-title="NDQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142", HBO
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 group-title="NDQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXrOs0ZcIT6AuCSSrusAUa--p9eAcZ5cunjGWmKpVjh9RR8nVBeyjI3xGhd7lFkUYup8&usqp=CAU", ☜ App khuyên dùng
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 group-title="🇨🌐🇨🅰️" tvg-logo="https://i.ibb.co/c31MSfM/52661144-2536612686565423-3503054177922187264-n.jpg",✍ by Henry Vo
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/ccboxmo
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV1080#
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
